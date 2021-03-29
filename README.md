@@ -22,7 +22,6 @@ Under transform object, and a mapper to the transformer. Below is an example of 
 
 ```JSON
   "transform": {
-    "^.+\\.tsx?$": "ts-jest",
     "^.+\\.pegjs?$": "pegjs-jest"
   }
 ```
